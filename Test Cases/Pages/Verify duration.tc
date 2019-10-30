@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify duration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfc9ac44-514d-41bf-ba28-7070bd191655</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>a52116c3-9225-4669-b70c-1aae09751856</id>
+      <masked>false</masked>
+      <name>expected_duration</name>
+   </variable>
+</TestCaseEntity>

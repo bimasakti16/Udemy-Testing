@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Start Web Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3db2f2d1-f4a5-46b5-abd3-2be9e7579a3c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6990afc5-ee7b-4309-b4b9-9fda0d424ef0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

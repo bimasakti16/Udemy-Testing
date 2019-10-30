@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_All Levels 8510')</initValue>
+      <name>level_all</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Beginner 4811')</initValue>
+      <name>level_beginner</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Intermediate 2877')</initValue>
+      <name>level_intermediate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Expert 480')</initValue>
+      <name>level_expert</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_English 10000')</initValue>
+      <name>lang_english</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Portugus 461')</initValue>
+      <name>lang_port</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Espaol 464')</initValue>
+      <name>lang_esp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_0-2 Hours 5703')</initValue>
+      <name>dura_0_2h</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_3-6 Hours 3628')</initValue>
+      <name>dura_3_6h</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_7-16 Hours 2515')</initValue>
+      <name>dura_7_16h</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_17 Hours 858')</initValue>
+      <name>dura_17h</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Free 802')</initValue>
+      <name>price_free</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_Paid 10000')</initValue>
+      <name>price_paid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_45  up3117')</initValue>
+      <name>rating_45_up</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_40  up8797')</initValue>
+      <name>rating_40_up</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_35  up10000')</initValue>
+      <name>rating_35_up</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Online Courses - Anytime Anywhere  Udemy/span_30  up10000')</initValue>
+      <name>rating_30_up</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify rating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67b5991c-52bc-4079-a56f-34760720baf6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>86c99f6a-f74c-432f-b6f5-ad50c95d7f84</id>
+      <masked>false</masked>
+      <name>expected_rating</name>
+   </variable>
+</TestCaseEntity>

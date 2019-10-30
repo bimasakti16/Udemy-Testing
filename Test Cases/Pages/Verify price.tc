@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify price</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e39dc7c1-8520-4708-98c9-ff64be04ce41</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e023cc8-57fb-4baf-8254-687305b7a2f8</id>
+      <masked>false</masked>
+      <name>expected_price</name>
+   </variable>
+</TestCaseEntity>

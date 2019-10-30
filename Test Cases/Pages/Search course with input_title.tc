@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search course with input_title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b763725c-6b47-4aaa-b92c-41ad862cc88b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b11063e-f242-4a2f-a4c7-8016713316b9</id>
+      <masked>false</masked>
+      <name>input_title</name>
+   </variable>
+</TestCaseEntity>

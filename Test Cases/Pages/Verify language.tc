@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify language</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0ea5d50-0f76-4d08-91bd-bf520f684be7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19711450-f3ee-4ee5-8320-a4a52f5e6217</id>
+      <masked>false</masked>
+      <name>expected_language</name>
+   </variable>
+</TestCaseEntity>

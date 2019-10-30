@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Apply Filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ff0fd15-575c-48e7-9d91-ef8a33f9a679</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a9911f0d-6de5-4989-8435-edce41a4ed15</id>
+      <masked>false</masked>
+      <name>level</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d5c2df37-79ef-4ae3-a8cf-6efbe814650c</id>
+      <masked>false</masked>
+      <name>language</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9589a7c3-f997-45a0-84d7-3eca16f9e869</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>17e430da-e0b3-4ba6-965d-27be71ebbcda</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>eeb27b0b-7e5e-4438-9167-68ef3585e515</id>
+      <masked>false</masked>
+      <name>duration</name>
+   </variable>
+</TestCaseEntity>

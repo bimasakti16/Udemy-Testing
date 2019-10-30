@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select title course contain expected_title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7f5f695-530e-4a00-be32-8fd960ba1a81</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5b71a6a-68f1-4d44-a0cf-d0fa469f4b47</id>
+      <masked>false</masked>
+      <name>expected_title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c39ca53-d0d7-4580-b590-d4ba4f0037a2</id>
+      <masked>false</masked>
+      <name>expected_title2</name>
+   </variable>
+</TestCaseEntity>
